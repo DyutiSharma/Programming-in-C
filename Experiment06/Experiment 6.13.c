@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
- printf("Ansh Bharadwaj\nSAP ID: 5900290630\nCourse: BSc. CS.
+ printf("DYUTI SHARMA\nSAP ID: 590021983\nCourse: BSc. CS.
 \nBatch: 1");
  printf("\n-----------------\n");
  printf("The pattern is:\n");
