@@ -5,7 +5,7 @@ program to find out what is the day on 1st January of this year.*/
 #include<conio.h> 
 int main(){ 
 int yr, i, day=0, a; 
-printf("Name: Ansh Bharadwaj\nSap-ID: 590029063\nCourse: Bsc CS\n Batch: 1st\n");  
+printf("Name: DYUTI SHARMA\nSap-ID: 590021983\nCourse: Bsc CS\n Batch: 1st\n");  
 printf("-----------------------------\n"); 
  printf("Enter the year:"); scanf("%d", &yr); 
  for(i=1; i<yr; i++) 
