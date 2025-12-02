@@ -5,7 +5,7 @@ highest perimeter. The minimum number of rectangles should be three.
 #include<conio.h> 
 int main() { 
     int n, l, b, i, maxPerimeter = 0, rectNo = 0; 
-    printf("Name: Ansh Bharadwaj\nSap-ID: 590029063\nCourse: Bsc CS\n Batch: 1st\n");  
+    printf("Name: DYUTI SHARMA\nSap-ID: 590021983\nCourse: Bsc CS\n Batch: 1st\n");  
     printf("-----------------------------\n"); 
     printf("Enter number of rectangles (minimum 3): "); 
     scanf("%d", &n); 
