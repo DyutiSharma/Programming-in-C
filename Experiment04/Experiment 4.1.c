@@ -4,7 +4,7 @@ collinear or no t
 #include<conio.h> 
 int main() { 
 int x1, y1, x2, y2, x3, y3;  
-printf("Name: Ansh Bharadwaj\nSap-ID: 590029063\nCourse: Bsc CS\n Batch: 1st\n");  
+printf("Name: DYUTI SHARMA\nSap-ID: 590021983\nCourse: Bsc CS\n Batch: 1st\n");  
 printf("-----------------------------\n"); 
 printf("Enter coordinates of first point (x1 y1)"); 
 scanf("%d %d", &x1, &y1) ;  
