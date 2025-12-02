@@ -5,7 +5,7 @@
 #include<conio.h>
 #include<math.h>
 int main(void) {
-    printf("Name: Ansh Bharadwaj\nSap-ID: 590029063\nCourse: Bsc CS\n Batch: 1st\n"); 
+    printf("Name: DYUTI SHARMA\nSap-ID: 590021983\nCourse: Bsc CS\n Batch: 1st\n"); 
   printf("-----------------------------\n");
     int a,b,c, sum=0;
     printf("Enter the values for a,b,c");
